@@ -11,7 +11,7 @@ I created this website to show my portfolio as well as links to other projects t
 * format
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+There are a few issues that am still try to fix such as changing the picture to my link "my first webpage" as well as my favorite things folder is empty I have added but it's not changing anything
 ## Technologies Used
 I used multiple html and css files to create this app.
 ## Support and contact details
