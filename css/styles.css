@@ -1,9 +1,14 @@
 body
 {
-  background-image: url("../photos/");
+  background-image: url("../photos/sky.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 h1{
    text-align: center;
+   color: white;
 }
+li
+ {
+   color: white;
+ }
