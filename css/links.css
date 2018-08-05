@@ -1,0 +1,42 @@
+body
+{
+  background-image: url("../img/wakanda.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1{
+   text-align: left;
+   color: white;
+}
+li
+ {
+   color: white;
+ }
+img{
+    vertical-align: middle;
+    width: 350px;
+    height: 300px;
+    border-radius: 500px;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 00px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+p{
+  color: white;
+}
+h2{
+  font-family: quicksand;
+  color: white;
+}
